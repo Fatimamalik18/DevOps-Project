@@ -1,0 +1,1 @@
+Simple project welcome screen is created 
