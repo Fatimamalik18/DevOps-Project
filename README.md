@@ -51,3 +51,5 @@ Steps:
 ### Version 1.2
 - Bug fixes
 - Added email notification system
+
+- secrets created
