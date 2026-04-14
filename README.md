@@ -24,7 +24,10 @@ Whenever code is pushed to the repository, the pipeline is triggered automatical
 3. Install dependencies:
    npm install
 
-4. Run the application:
+
+   ## secrets created
+
+5. Run the application:
    npm start
    ## Deployment
    The application can be deployed using:
